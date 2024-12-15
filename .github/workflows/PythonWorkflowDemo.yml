@@ -1,4 +1,4 @@
-name: Python_Script_Workflow
+name: Python_Script_Workflows
 
 on:
   push:
