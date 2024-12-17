@@ -1,4 +1,4 @@
-# Simple Python script to print "Hello, GitHub Codespaces! using Flask library"
+# Simple Python script to print "Hello, GitHub Codespaces! using Flask librarys"
 from flask import Flask
 
 app = Flask(__name__)
